@@ -1,4 +1,6 @@
-# Defrost version 1.0 
+# Defrost
+
+Version 1.0
 
 A user friendly Password generator written in C++. 
 
