@@ -33,4 +33,4 @@ Alternative Linux command to run the program :
 ```
                  ./defrost-passwds
 ```
-Change to the directory where you saved the compiled file and run the command above and enter details when the program asks for user input.
+Change to the directory where the compiled file was saved and run one of the commands above to initialize the program and enter details when the program prompts for user input.
