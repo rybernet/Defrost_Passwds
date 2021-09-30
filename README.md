@@ -26,6 +26,7 @@ g++ -O3 -pthread ./*.cpp -lncursesw -o defrost_passwds
 To run the program :
 ```
                    defrost-passwds
+```
 Alternative Linux command to run the program :
 ```
                  ./defrost-passwds
