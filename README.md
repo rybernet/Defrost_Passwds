@@ -24,8 +24,10 @@ g++ -O3 -pthread ./*.cpp -lncursesw -o defrost_passwds
 ### How to run 
 
 To run the program :
+```
                    defrost-passwds
 Alternative Linux command to run the program :
+```
                  ./defrost-passwds
-
+```
 Change to the directory where you saved the compiled file and run the command above and enter details when the program asks for user input.
